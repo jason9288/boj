@@ -1,1 +1,2 @@
-### BOJ codes with auto-generated AI descriptions by BOJ Extended
+# BOJAutoPush
+This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
